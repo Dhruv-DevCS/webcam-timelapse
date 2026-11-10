@@ -2,6 +2,11 @@
 
 > **Capture less. Preserve what matters.**
 
+✔ Extremely Lightweight
+✔ Low Storage
+✔ Customisable resolution
+✔ Customisable FPS
+
 A Python-based webcam time-lapse recorder built with OpenCV. Designed to reduce unnecessary video recording by capturing frames at controlled intervals and encoding them directly into an MP4 video.
 
 Instead of continuously saving every frame, the application samples the webcam feed, adds timestamps, and generates a time-lapse video in real time.
